@@ -17,6 +17,7 @@ This project is designed to collect environmental and positional data from vario
   - Dataset Creation: The system can generate datasets from the sensor data, which can be used for AI model training, data analytics, or future applications.
 
 ## Electronic Diagram: A schematic showing the wiring between the sensors, Arduino, and companion computer.
+  ![avionic_electronic_diyagram](https://github.com/user-attachments/assets/c7eaa55c-57f7-4bbb-94b8-324540a09394)
 
 ## Screenshots: Displays of real-time data being logged in the terminal.
   ![data_receiving_with_serial_monitor_using_python_language](https://github.com/user-attachments/assets/637e9ca3-3406-4418-9353-86d597859bd1)

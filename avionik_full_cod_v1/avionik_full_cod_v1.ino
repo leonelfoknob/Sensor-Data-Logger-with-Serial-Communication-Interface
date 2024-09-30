@@ -1,3 +1,4 @@
+// this cod will just print data on serial monitor but avionik_full_cod_v2 will comunicate with python and save data
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP085.h>
